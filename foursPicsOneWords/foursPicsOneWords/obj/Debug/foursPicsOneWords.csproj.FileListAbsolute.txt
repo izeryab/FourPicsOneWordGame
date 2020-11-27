@@ -1,0 +1,9 @@
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\bin\Debug\foursPicsOneWords.exe.config
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\bin\Debug\foursPicsOneWords.exe
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\bin\Debug\foursPicsOneWords.pdb
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\obj\Debug\foursPicsOneWords.csprojResolveAssemblyReference.cache
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\obj\Debug\foursPicsOneWords.Form1.resources
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\obj\Debug\foursPicsOneWords.Properties.Resources.resources
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\obj\Debug\foursPicsOneWords.csproj.GenerateResource.Cache
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\obj\Debug\foursPicsOneWords.exe
+C:\Users\JokerA\Desktop\foursPicsOneWords\foursPicsOneWords\obj\Debug\foursPicsOneWords.pdb
